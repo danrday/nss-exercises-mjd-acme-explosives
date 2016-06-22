@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "M80",
+      "description": "Throw these in a pond and all the fish will rise to the top."
+    }, 
+{
+ "id": 2,
+  "type": 1,
+  "name": "FIRECRACKERS",
+  "description": "Good old fashioned firecrackers."
+}, {
+ "id": 3,
+  "type": 1,
+  "name": "AERIAL SHELL",
+  "description": "Typically the Category 4 firework used only by professionals. An aerial effect enclosed in a paper or card “shell” and launched from a mortar tube by a lifting charge (also contained in the shell). Effects vary from plain bangs (maroons) to expansive and pretty colours or multiple effects. Responsible for most of the quality aerial effects seen in a professional display."
+}, {
+ "id": 4,
+  "type": 2,
+  "name": "BANGER",
+  "description": "Now banned, a small tubular firework that simply banged, in effect an airbomb that stayed on the ground. Cheap and misused, it was a major cause of injuries until banned from sale to the public."
+}, {
+  "id": 5,
+  "type": 2,
+  "name": "BLACK MATCH",
+  "description": "This is the fast burning fuse used extensively in a professional display. It is also found inside some consumer fireworks such as candle fans and set pieces."
+}, {
+  "id": 6,
+  "type": 2,
+  "name": "BLOSSOM",
+  "description": "A pretty or colourful effect likened to a flower, or an effect that opens up and expands, like a flower blossoming."
+}, {
+  "id": 7,
+  "type": 3,
+  "name": "PLASTIQUE",
+  "description": "Made with premium gasoline and styrofoam."
+}, {
+ "id": 8,
+  "type": 3,
+  "name": "SEMTEX",
+  "description": "A general-purpose plastic explosive containing RDX and PETN.[1] It is used in commercial blasting, demolition, and in certain military applications."
+}, {
+ "id": 9,
+  "type": 3,
+  "name": "C-4",
+  "description": "C-4 has a texture similar to modeling clay and can be molded into any desired shape. C-4 is stable and an explosion can only be initiated by the combination of extreme heat and shock wave from a detonator."
+}, {
+  "id": 10,
+  "type": 4,
+  "name": "ORANGE",
+  "description": "Shoots out beautiful orange balls."
+}, {
+  "id": 11,
+  "type": 4,
+  "name": "YELLOW",
+  "description": "Shoots out beautiful yellow balls."
+}, {
+ "id": 12,
+  "type": 4,
+  "name": "RAINBOW",
+  "description": "Shoots out beautiful rainbow balls."
+}, {
+ "id": 13,
+  "type": 5,
+  "name": "THERMITE 50",
+  "description": "Burns at 50 billion degrees F."
+}, {
+ "id": 14,
+  "type": 5,
+  "name": "THERMITE 80",
+  "description": "Burns at 80 billion degrees F."
+}, {
+  "id": 15,
+  "type": 5,
+  "name": "THERMITE 40",
+  "description": "Burns at 40 billion degrees F."
+}]
+}
