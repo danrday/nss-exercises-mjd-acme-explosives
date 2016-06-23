@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "id": 1,
-      "type": 1,
-      "name": "M80",
-      "description": "Throw these in a pond and all the fish will rise to the top."
+  "id": 1,
+  "type": 1,
+  "name": "M80",
+  "description": "Throw these in a pond and all the fish will rise to the top."
     }, 
 {
  "id": 2,
