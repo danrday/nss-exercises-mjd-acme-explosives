@@ -55,7 +55,7 @@ acme.jsonLoadChain = function (selected) {
         console.log("selected", selected)
         console.log("selectedID", selectedID)
 
-        // printToDom(selectedID);
+        acme.printToDom(selectedID, finalObject);
 
       },
       function(fail) {
