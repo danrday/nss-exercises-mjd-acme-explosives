@@ -2,27 +2,27 @@
     "types": [{
   "id": 1,
   "category": 1,
-  "name": "personal",
+  "name": "Personal",
   "description": "Fireworks good for birthdays."
 }, {
   "id": 2,
   "category": 1,
-  "name": "personal",
+  "name": "Personal",
   "description": "Fireworks great for the 4th of July."
 }, {
   "id": 3,
   "category": 2,
-  "name": "professional",
+  "name": "Professional",
   "description": "Plastic Explosives. Illegal in the USA."
 }, {
   "id": 4,
   "category": 1,
-  "name": "personal",
+  "name": "Personal",
   "description": "Roman Candles. Do not point sideways."
 }, {
   "id": 5,
   "category": 2,
-  "name": "professional",
+  "name": "Professional",
   "description": "Thermite. Will burn through anything."
 }]
 }
