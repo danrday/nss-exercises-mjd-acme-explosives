@@ -8,6 +8,7 @@ var htmlHolder = "";
 
 
 acme.printToDom = function (selectedID, finalObject) {
+  var htmlHolder = "";
   console.log("finalObject DOMHandler", finalObject);
   var allCategories = finalObject.first.categories;
   var allTypes = finalObject.second.types;
@@ -34,14 +35,21 @@ acme.printToDom = function (selectedID, finalObject) {
       }
 
       console.log(allTypes[x], ": ", selectedProducts)
-
-      htmlHolder += "" 
-
+      $mainContent.html(htmlHolder) 
     }
   };
 
+htmlHolder += '<div class="row">'
 
-  $mainContent.html(`<p>YO</p>`)
+for(var x in selectedTypes) {
+  htmlHolder +=  `<div class="col-md-4">${selectedTypes[x].description}</div>`
+}
+
+htmlHolder += '</div>'
+
+$mainContent.html(htmlHolder);
+
+  // $mainContent.html(`<p>YO</p>`)
 
 };
 
